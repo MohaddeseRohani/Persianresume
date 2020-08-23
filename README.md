@@ -20,7 +20,7 @@
 
 <hr/>
 
- <p dir="rtl" align="right">زبان انگلیسی تا سطح  Advanced </p>
+ <p dir="rtl" align="right">زبان انگلیسی تا سطح  Advanced</p>
  <p dir="rtl" align="right">زبان فارسی</p>
  
 
