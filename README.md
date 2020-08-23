@@ -60,7 +60,7 @@
 
 <hr/>
 
-<p dir="rtl" align="right"><a href = "mailto: https://quera.ir/profile/almas_15r">✿ کوئرا</a></p>
+<p dir="rtl" align="right"><a href = "https://quera.ir/profile/almas_15r">✿ کوئرا</a></p>
 <p dir="rtl" align="right"><a href = "mailto: almas_15r@yahoo.com">✿ ایمیل</a></p>
 
 
@@ -70,7 +70,7 @@
 <hr/>
 
 <p dir="rtl" align="right"><a href = "http://s11.picofile.com/d/8406542876/54cf842e-f80e-4ddb-88c9-3e7f8eb75490/arzyabi.pdf">✿ فرم ارزیابی </a></p>
-<p dir="rtl" align="right"><a href = "mailto: https://mohaddeserohani.github.io/">✿ رزومه به انگلیسی</a></p>
+<p dir="rtl" align="right"><a href = "https://mohaddeserohani.github.io/">✿ رزومه به انگلیسی</a></p>
 
 
 <p dir="rtl" align="right"><p>theme: jekyll-theme-leap-day</p>
