@@ -6,7 +6,9 @@
 </html>
 
 ### <p dir="rtl" align="right"> رزومه </p>
+
 ---
+
 <p dir="rtl" align="right"> تاریخ</p>
 <p dir="rtl" align="right">99/5/16</p>
 <p dir="rtl" align="right">+بیوگرافی:</p>
@@ -19,13 +21,17 @@
 
 
 ### <p dir="rtl" align="right"> آشنایی به زبان های: </p>
+
 ---
+
  <p dir="rtl" align="right">● زبان انگلیسی تا سطح  Advanced </p>
  <p dir="rtl" align="right">● زبان فارسی</p>
  
 
 ### <p dir="rtl" align="right"> مهارت ها </p>
+
 ---
+
  <p dir="rtl" align="right">● زبان های برنامه نویسی جاوا و سی پلاس پلاس </p>
  <p dir="rtl" align="right">● توسعه دهنده بک اند</p>
  <p dir="rtl" align="right">● طراحی سایت</p>
@@ -36,7 +42,9 @@
 
 
 ### <p dir="rtl" align="right">تجربه های کاری</p>
+
 ---
+
 <p dir="rtl" align="right">● بعنوان کار پاره وقت در سایت "typeiran" :</p>
 <p dir="rtl" align="right">● ورد آفیس</p>
 <p dir="rtl" align="right">● پاورپوینت آفیس</p>
@@ -45,13 +53,16 @@
 
   
 ### <p dir="rtl" align="right">تحصیلات</p>
+
 ---
+
  <p dir="rtl" align="right">● دانشجوی مهندسی کامپیوتر در پیام نور تهران شمال</p>
 
 
 ### <p dir="rtl" align="right">ارتباط با من:</p>
 
 ---
+
 <p dir="rtl" align="right"><a href = "mailto: https://quera.ir/profile/almas_15r">✿ کوئرا</a></p>
 <p dir="rtl" align="right"><a href = "mailto: almas_15r@yahoo.com">✿ ایمیل</a></p>
 
@@ -60,6 +71,7 @@
 ### <p dir="rtl" align="right">ارزیابی:</p>
 
 ---
+
 <p dir="rtl" align="right"><a href = "mailto: http://s11.picofile.com/d/8406542876/54cf842e-f80e-4ddb-88c9-3e7f8eb75490/arzyabi.pdf">✿ فرم ارزیابی </a></p>
 <p dir="rtl" align="right"><a href = "mailto: https://mohaddeserohani.github.io/">✿ رزومه به انگلیسی</a></p>
 
