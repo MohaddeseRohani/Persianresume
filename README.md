@@ -2,7 +2,7 @@
 <p dir="rtl" align="right"><img src="http://s10.picofile.com/file/8406531992/photo_2020_08_23_15_38_36.jpg" alt="Mohaddese" width="250" height="250">
 
 
-<p dir="rtl" align="right">●رزومه</p>
+<p dir="rtl" align="right"> ●رزومه </p>
 <hr/>
 
 <p dir="rtl" align="right">تاریخ</p>
@@ -16,7 +16,7 @@
 <p dir="rtl" align="right">همچنین مترجمی و تولید محتواانجام میدم و وردپرس رو هم شروع کردم</p>
 
 
-<p dir="rtl" align="right">● آشنایی با زبان های: </p>
+<p dir="rtl" align="right"> ● آشنایی با زبان های: </p>
 
 <hr/>
 
@@ -24,7 +24,7 @@
  <p dir="rtl" align="right">زبان فارسی</p>
  
 
-<p dir="rtl" align="right">●مهارت ها </p>
+<p dir="rtl" align="right"> ●مهارت ها </p>
 
 <hr/>
 
@@ -38,7 +38,7 @@
   <p dir="rtl" align="right">sql </p>
 
 
-<p dir="rtl" align="right">●تجربه های کاری</p>
+<p dir="rtl" align="right"> ●تجربه های کاری </p>
 
 <hr/>
 
@@ -49,14 +49,14 @@
 <p dir="rtl" align="right">مترجمی</p>
 
   
-<p dir="rtl" align="right">●تحصیلات </p>
+<p dir="rtl" align="right"> ●تحصیلات </p>
 
 <hr/>
 
  <p dir="rtl" align="right">دانشجوی مهندسی کامپیوتر در پیام نور تهران شمال</p>
 
 
-<p dir="rtl" align="right">●ارتباط با من:</p>
+<p dir="rtl" align="right"> ●ارتباط با من:</p>
 
 <hr/>
 
@@ -65,7 +65,7 @@
 
 
 
-<p dir="rtl" align="right">● ارزیابی:</p>
+<p dir="rtl" align="right"> ● ارزیابی:</p>
 
 <hr/>
 
