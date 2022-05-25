@@ -1,5 +1,5 @@
 # رزومه محدثه روحانی
-<p dir="rtl" align="right"><img src="http://s10.picofile.com/file/8406531992/photo_2020_08_23_15_38_36.jpg" alt="Mohaddese" width="250" height="250">
+<p dir="rtl" align="right"><img src="" alt="Mohaddese" width="250" height="250">
 
 
 <p dir="rtl" align="right"> ●رزومه </p>
@@ -28,14 +28,12 @@
 
 <hr/>
 
- <p dir="rtl" align="right">زبان های برنامه نویسی جاوا و سی پلاس پلاس </p>
- <p dir="rtl" align="right">توسعه دهنده بک اند</p>
- <p dir="rtl" align="right">طراحی سایت</p>
- <p dir="rtl" align="right">پایگاه داده </p>
+ 
+ <p dir="rtl" align="right">sql server </p>
  <p dir="rtl" align="right">طراحی گرافیکی</p>
  <p dir="rtl" align="right">طراحی لوگو</p>
  <p dir="rtl" align="right">لاتکس</p>
-  <p dir="rtl" align="right">sql </p>
+  <p dir="rtl" align="right">Html Css  </p>
 
 
 <p dir="rtl" align="right"> ●تجربه های کاری </p>
@@ -46,7 +44,7 @@
 <p dir="rtl" align="right">ورد آفیس</p>
 <p dir="rtl" align="right">پاورپوینت آفیس</p>
 <p dir="rtl" align="right">لاتکس</p>
-<p dir="rtl" align="right">مترجمی</p>
+<p dir="rtl" align="right">ترجمه</p>
 
   
 <p dir="rtl" align="right"> ●تحصیلات </p>
@@ -73,7 +71,7 @@
 <p dir="rtl" align="right"><a href = "https://mohaddeserohani.github.io/">✿ رزومه به انگلیسی</a></p>
 
 
-<p dir="rtl" align="right"><p>theme: jekyll-theme-leap-day</p>
+
 <p dir="rtl" align="right"><p>title: محدثه روحانی</p>
 
 
